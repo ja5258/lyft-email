@@ -42,7 +42,6 @@
         </mj-button>
       </mj-column>
     </mj-section>
-
     <!-- How It Works Section -->
     <mj-section>
       <mj-column width="100%">
@@ -63,7 +62,6 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
     <!-- Terms Section -->
     <mj-section>
       <mj-column width="100%">
@@ -92,6 +90,5 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
   </mj-body>
 </mjml>
